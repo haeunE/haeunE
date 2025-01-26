@@ -1,5 +1,9 @@
-## Hi there 👋
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi!%20I%20am%20haeunE.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+***
+<!-- 개별통계 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeunE&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeunE&layout=compact)
 <!--
 **haeunE/haeunE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
